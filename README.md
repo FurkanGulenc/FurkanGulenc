@@ -6,11 +6,11 @@ Furkan</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 I’m currently Working on Data Manipulation and Machine Learning Models
+- 🌱 I’m currently Working on Machine Learning Models and Data Manipulation
 
 - 🤝 I’m available for work.
 
-- 🌱 I’m currently learning AWS & Django
+- 🌱 I’m currently learning SQL
 
 * 📫 How to reach me **furkan.gulenc@hotmail.com**
 
