@@ -17,8 +17,6 @@ Furkan</a></h1>
 * 📄 Know about my experiences <a href="https://github.com/FurkanGulenc/resume/blob/c67cf9124ca35fe0604e012a0708430c7f07ee51/CV_FurkanGulenc.pdf" target="blank">Resume</a>
   <br/>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FurkanGulenc)](https://github.com/anuraghazra/github-readme-stats)
-  
   <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
