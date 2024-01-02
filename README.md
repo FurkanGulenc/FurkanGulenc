@@ -11,7 +11,7 @@ Furkan</a></h1>
 
 * 📫 How to reach me **furkan.gulenc@hotmail.com**
 
-* 📄 Know about my experiences <a href="https://github.com/FurkanGulenc/resume/blob/c67cf9124ca35fe0604e012a0708430c7f07ee51/CV_FurkanGulenc.pdf" target="blank">Resume</a>
+* 📄 Know about my experiences <a href="https://github.com/FurkanGulenc/resume/blob/main/FurkanGulencCvGuncel.pdf" target="blank">Resume</a>
   <br/>
 
   <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
